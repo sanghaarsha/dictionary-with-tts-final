@@ -1,14 +1,11 @@
-/**************************************************************************************
-* 																					  *
-*																					  *
-* This Project is done for Tribhuwan University, IOE : Purwanchal Campus, Dharan      *
-* By :																				  *
-* 1. Sangharsha Dahal : PUR076BEI029												  *
-* 2. Samin Gaire : PUR076BEI028														  *
-* 3. Mandip Rajak : PUR076BEI019													  *
-* 4. Amit Poudel : PUR076BEI003														  *
-																					  *
-***************************************************************************************/
+/******************************************************************************************										  *										  *
+* This Project is done for Tribhuwan University, IOE : Purwanchal Campus, Dharan 	  *
+* By :											  *
+* 1. Sangharsha Dahal									  *
+* 2. Samin Gaire 								      	  *
+* 3. Mandip Rajak								  	  *
+* 4. Amit Poudel									  *											  *
+******************************************************************************************/
 
 #include <iostream>
 #include "Dictionary.h"
