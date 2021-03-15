@@ -1,3 +1,11 @@
+/******************************************************************************************										  *										  *
+* This Project is done for Tribhuwan University, IOE : Purwanchal Campus, Dharan 	  *
+* By :											  *
+* 1. Sangharsha Dahal									  *
+* 2. Samin Gaire 								      	  *
+* 3. Mandip Rajak								  	  *
+* 4. Amit Poudel									  *											  *
+******************************************************************************************/
 #ifndef DICTIONARY_H
 #define DICTIONARY_H
 
