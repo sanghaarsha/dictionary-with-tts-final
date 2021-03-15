@@ -2,8 +2,11 @@
 ## By:
 
 **Sangharsha Dahal**
+
 **Samin Gaire**
+
 **Mandip Rajak**
+
 **Amit Poudel**
 
 ## Details
