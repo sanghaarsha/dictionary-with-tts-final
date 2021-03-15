@@ -1,10 +1,10 @@
 # A simple dictionary program created using C++ for the Assesment Exam of TU IOE Purwanchal Campus Dharan. 
 ## By:
 
- **Sangharsha Dahal
- **Samin Gaire
- **Mandip Rajak
- **Amit Poudel
+ **Sangharsha Dahal**
+ **Samin Gaire**
+ **Mandip Rajak**
+ **Amit Poudel**
 
 ## Details
 
