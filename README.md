@@ -26,7 +26,7 @@ chmod +x ttsRreader.sh
 This shell command gives executable permisson to the ttsReader.sh file,
 which job is to pipe the text to be read into TTS engine, so this is must.
 
-Now finally you can run the program(if you have gcc installed) by running:
+Now finally you can run the program(if you have g++ installed) by running:
 g++ -Wall -std=c++14 main.cpp -o bin && ./bin
 
 ## If you have any suggestions you can send pull requests.
