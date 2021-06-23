@@ -18,7 +18,7 @@ In Ubuntu/Debian based systems by running:
 sudo apt-get install festival festvox-kallpc16k
 
 In arch-based system by running:
-pacman -S festival festival-us
+sudo pacman -Sy festival festival-us
 
 Then make sure to go to the code directory and run:
 chmod +x ttsRreader.sh
